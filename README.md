@@ -9,6 +9,6 @@
     </div>
     <img style="width:50%;" src="./img/github_about_img_contributions.png">
     <div style="margin:auto;">
-        <a href="https://github.com/yowchap/BoneLib"><img style="width:75%;" src="./img/github_about_nedebug.png"></a>
+        <a href="https://github.com/yowchap/BoneLib"><img style="width:75%;" src="./img/github_about_bonemenu.png"></a>
     </div>
 </html>
