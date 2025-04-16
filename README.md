@@ -8,6 +8,7 @@
             <a href="https://github.com/Not-Enough-Photons/NEDebug"><img style="width:45%;" src="./img/github_about_nedebug.png"></a>
             <a href="https://github.com/Not-Enough-Photons/reCOM"><img style="width:45%;" src="./img/github_about_recom.png"></a>
             <a href="https://github.com/Not-Enough-Photons/MonoDirector"><img style="width:45%;" src="./img/github_about_monodirector.png"></a>
+            <a href="https://github.com/Not-Enough-Photons/DOOMLAB"><img style="width:45%;" src="./img/github_about_doomlab.png"></a>
             <a href="https://github.com/Not-Enough-Photons/Paranoia"><img style="width:45%;" src="./img/github_about_paranoia.png"></a>
             <a href="https://github.com/Not-Enough-Photons/Hitmarkers"><img style="width:45%;" src="./img/github_about_hitmarkers.png"></a>
         </p>
