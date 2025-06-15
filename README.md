@@ -5,6 +5,7 @@
     <img style="width:50%;" src="./img/github_about_img_projects.png">
     <div>
         <p align="center">
+            <a href="https://github.com/NotEnoughPhotons/ScoreLab"><img style="width:45%;" src="./img/github_about_scorelab.png"></a>
             <a href="https://github.com/NotEnoughPhotons/NEDebug"><img style="width:45%;" src="./img/github_about_nedebug.png"></a>
             <a href="https://github.com/NotEnoughPhotons/reCOM"><img style="width:45%;" src="./img/github_about_recom.png"></a>
             <a href="https://github.com/NotEnoughPhotons/MonoDirector"><img style="width:45%;" src="./img/github_about_monodirector.png"></a>
