@@ -5,6 +5,7 @@
     <img style="width:50%;" src="./img/github_about_img_projects.png">
     <div>
         <p align="center">
+			<a href="https://github.com/NotEnoughPhotons/Crosshairs"><img style="width:45%;" src="./img/github_about_crosshairs.png"></a>
             <a href="https://github.com/NotEnoughPhotons/MagPerception"><img style="width:45%;" src="./img/github_about_magperception.png"></a>
             <a href="https://github.com/NotEnoughPhotons/ScoreLab"><img style="width:45%;" src="./img/github_about_scorelab.png"></a>
             <a href="https://github.com/NotEnoughPhotons/NEDebug"><img style="width:45%;" src="./img/github_about_nedebug.png"></a>
